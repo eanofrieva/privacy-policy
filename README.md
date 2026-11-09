@@ -1,3 +1,9 @@
+<style>
+  header, .page-header, h1 a[href*="github.com"] { 
+    display: none !important; 
+  }
+</style>
+
 <h1>Политика конфиденциальности</h1>
 
 Дата последнего обновления: 25.10.2026
